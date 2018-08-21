@@ -1,0 +1,15 @@
+# COMANDO PARA LISTAR AS CONFIGURAÇÕES DO POSTGRESQL 
+
+biophas@biophas ~ $ pg_config
+BINDIR = /usr/lib/postgresql/9.1/bin
+DOCDIR = /usr/share/doc/postgresql
+HTMLDIR = /usr/share/doc/postgresql
+INCLUDEDIR = /usr/include/postgresql
+PKGINCLUDEDIR = /usr/include/postgresql
+INCLUDEDIR-SERVER = /usr/include/postgresql/9.1/server
+LIBDIR = /usr/lib
+PKGLIBDIR = /usr/lib/postgresql/9.1/lib
+LOCALEDIR = /usr/share/locale
+MANDIR = /usr/share/postgresql/9.1/man
+SHAREDIR = /usr/share/postgresql/9.1
+SYSCONFDIR = /etc/postgresql-common 
