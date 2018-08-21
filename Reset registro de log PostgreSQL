@@ -1,0 +1,13 @@
+# Reset registro de log PostgreSQL
+
+# Logado com usuário admin do postgresql executar o seguinte comando.
+
+/usr/lib/postgresql/9.1/bin/pg_resetxlog -f /var/lib/postgresql/9.1/main 
+
+
+
+Diretório de Binários do Postgresql: usr/lib/postgresql/9.1/bin/
+pg_resetxlog: Reset o registro de logs 
+Diretório pgdata do Postgresql: /var/lib/postgresql/9.1/main
+
+
